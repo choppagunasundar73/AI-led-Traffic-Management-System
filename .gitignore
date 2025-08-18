@@ -1,5 +1,8 @@
 venv/
 *.pt
-1.mp4
+*.mp4
+*.png
+*.jpg
+*.jpeg
 datasets/
-testfiles/
+testfiles
