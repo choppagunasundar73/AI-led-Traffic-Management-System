@@ -4,7 +4,7 @@ import collections
 import time
 
 # Load your YOLO model
-model = YOLO('yolo11x.pt') 
+model = YOLO('../models/yolo11x.pt') 
 # Get the class names from the model
 class_names = model.names
 
